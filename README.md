@@ -1,2 +1,2 @@
 # Hello-dev
-Découverte de Github
+Ce projet permet de découvrir Github, c'est super. 😄
